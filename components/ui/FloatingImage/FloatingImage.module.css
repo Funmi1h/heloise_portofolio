@@ -1,0 +1,12 @@
+.floatingImage {
+  position: absolute;
+  will-change: transform;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  display: block;
+  pointer-events: none;
+  user-select: none;
+}

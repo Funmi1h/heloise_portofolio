@@ -1,0 +1,18 @@
+:root {
+  /* Arrière-plan */
+  --bg-primary: #FAF9F6;
+  
+  /* Boutons (Le blanc/crème dentelle) */
+  --btn-bg: #F2EAD9;
+  --btn-border: #DFD4BE;
+  --btn-hover: #E8DCBE;
+  --btn-text: #211B1B;
+
+  /* Rouge ruban (Pour vos images / accents) */
+  --ribbon-red: #8A151A;
+  --ribbon-red-light: #B21D24;
+
+  /* Typographie */
+  --text-main: #211B1B;
+  --text-muted: #736966;
+}
